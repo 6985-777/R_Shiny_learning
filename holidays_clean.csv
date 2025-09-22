@@ -1,0 +1,402 @@
+date;day;description;transferred
+2012-01-01;Sunday;New Year's Day;Restricted Holiday
+2012-01-05;Thursday;Guru Govind Singh Jayanti;Observance
+2012-01-14;Saturday;Pongal;Restricted Holiday
+2012-01-15;Sunday;Makar Sankranti;Restricted Holiday
+2012-01-23;Monday;Chinese New Year;Observance
+2012-01-26;Thursday;Republic Day;Gazetted Holiday
+2012-01-28;Saturday;Vasant Panchami;Restricted Holiday
+2012-02-05;Sunday;Milad un-Nabi/Id-e-Milad;Gazetted Holiday
+2012-02-07;Tuesday;Guru Ravidas Jayanti;Restricted Holiday
+2012-02-14;Tuesday;Valentine's Day;Observance
+2012-02-16;Thursday;Maharishi Dayanand Saraswati Jayanti;Restricted Holiday
+2012-02-19;Sunday;Shivaji Jayanti;Restricted Holiday
+2012-02-20;Monday;Maha Shivaratri/Shivaratri;Gazetted Holiday
+2012-03-07;Wednesday;Holika Dahana;Restricted Holiday
+2012-03-08;Thursday;Holi;Gazetted Holiday
+2012-03-08;Thursday;Holi;Restricted Holiday
+2012-03-20;Tuesday;March Equinox;Season
+2012-03-23;Friday;Chaitra Sukhladi;Restricted Holiday
+2012-04-01;Sunday;Rama Navami;Gazetted Holiday
+2012-04-05;Thursday;Maundy Thursday;Observance, Christian
+2012-04-05;Thursday;Mahavir Jayanti;Gazetted Holiday
+2012-04-06;Friday;Good Friday;Gazetted Holiday
+2012-04-07;Saturday;First day of Passover;Observance
+2012-04-08;Sunday;Easter Day;Restricted Holiday
+2012-04-13;Friday;Vaisakhi;Restricted Holiday
+2012-04-14;Saturday;Mesadi/Vaisakhadi;Restricted Holiday
+2012-04-14;Saturday;Ambedkar Jayanti;Observance
+2012-05-01;Tuesday;May Day;Observance
+2012-05-06;Sunday;Buddha Purnima/Vesak;Gazetted Holiday
+2012-05-08;Tuesday;Birthday of Ravindranath;Restricted Holiday
+2012-05-13;Sunday;Mother's Day;Observance
+2012-06-04;Monday;Hazarat Ali's Birthday;Restricted Holiday
+2012-06-17;Sunday;Father's Day;Observance
+2012-06-21;Thursday;June Solstice;Season
+2012-06-21;Thursday;Rath Yatra;Restricted Holiday
+2012-08-02;Thursday;Raksha Bandhan (Rakhi);Restricted Holiday
+2012-08-05;Sunday;Friendship Day;Observance
+2012-08-10;Friday;Janmashtami;Gazetted Holiday
+2012-08-15;Wednesday;Independence Day;Gazetted Holiday
+2012-08-17;Friday;Jamat Ul-Vida;Restricted Holiday
+2012-08-18;Saturday;Parsi New Year;Restricted Holiday
+2012-08-20;Monday;Ramzan Id/Eid-ul-Fitar;Gazetted Holiday
+2012-08-29;Wednesday;Onam;Restricted Holiday
+2012-09-19;Wednesday;Ganesh Chaturthi/Vinayaka Chaturthi;Restricted Holiday
+2012-09-22;Saturday;September Equinox;Season
+2012-10-02;Tuesday;Mahatma Gandhi Jayanti;Gazetted Holiday
+2012-10-21;Sunday;Maha Saptami;Restricted Holiday
+2012-10-22;Monday;Maha Ashtami;Restricted Holiday
+2012-10-24;Wednesday;Dussehra;Gazetted Holiday
+2012-10-27;Saturday;Bakr Id/Eid ul-Adha;Gazetted Holiday
+2012-10-29;Monday;Maharishi Valmiki Jayanti;Restricted Holiday
+2012-10-31;Wednesday;Halloween;Observance
+2012-11-02;Friday;Karaka Chaturthi (Karva Chauth);Restricted Holiday
+2012-11-12;Monday;Naraka Chaturdasi;Restricted Holiday
+2012-11-13;Tuesday;Diwali/Deepavali;Gazetted Holiday
+2012-11-14;Wednesday;Govardhan Puja;Restricted Holiday
+2012-11-15;Thursday;Bhai Duj;Restricted Holiday
+2012-11-19;Monday;Chhat Puja (Pratihar Sashthi/Surya Sashthi);Restricted Holiday
+2012-11-24;Saturday;Guru Tegh Bahadur's Martyrdom Day;Restricted Holiday
+2012-11-25;Sunday;Muharram/Ashura;Gazetted Holiday
+2012-11-28;Wednesday;Guru Nanak Jayanti;Gazetted Holiday
+2012-12-09;Sunday;First Day of Hanukkah;Observance
+2012-12-16;Sunday;Last day of Hanukkah;Observance
+2012-12-21;Friday;December Solstice;Season
+2012-12-24;Monday;Christmas Eve;Restricted Holiday
+2012-12-25;Tuesday;Christmas;Gazetted Holiday
+2012-12-31;Monday;New Year's Eve;Observance
+2013-01-01;Tuesday;New Year's Day;Restricted Holiday
+2013-01-13;Sunday;Makar Sankranti;Restricted Holiday
+2013-01-14;Monday;Pongal;Restricted Holiday
+2013-01-18;Friday;Guru Govind Singh Jayanti;Restricted Holiday
+2013-01-25;Friday;Milad un-Nabi/Id-e-Milad;Gazetted Holiday
+2013-01-26;Saturday;Republic Day;Gazetted Holiday
+2013-02-10;Sunday;Chinese New Year;Observance
+2013-02-14;Thursday;Valentine's Day;Observance
+2013-02-15;Friday;Vasant Panchami;Restricted Holiday
+2013-02-19;Tuesday;Shivaji Jayanti;Restricted Holiday
+2013-02-23;Saturday;Maharishi Dayanand Saraswati Jayanti;Restricted Holiday
+2013-02-25;Monday;Guru Ravidas Jayanti;Restricted Holiday
+2013-03-10;Sunday;Maha Shivaratri/Shivaratri;Gazetted Holiday
+2013-03-20;Wednesday;March Equinox;Season
+2013-03-26;Tuesday;First day of Passover;Observance
+2013-03-26;Tuesday;Holika Dahana;Restricted Holiday
+2013-03-27;Wednesday;Holi;Gazetted Holiday
+2013-03-27;Wednesday;Holi;Restricted Holiday
+2013-03-28;Thursday;Maundy Thursday;Observance, Christian
+2013-03-29;Friday;Good Friday;Gazetted Holiday
+2013-03-31;Sunday;Easter Day;Restricted Holiday
+2013-04-11;Thursday;Chaitra Sukhladi;Restricted Holiday
+2013-04-13;Saturday;Vaisakhi;Restricted Holiday
+2013-04-14;Sunday;Mesadi/Vaisakhadi;Restricted Holiday
+2013-04-14;Sunday;Ambedkar Jayanti;Observance
+2013-04-19;Friday;Rama Navami;Gazetted Holiday
+2013-04-24;Wednesday;Mahavir Jayanti;Gazetted Holiday
+2013-05-01;Wednesday;May Day;Observance
+2013-05-08;Wednesday;Birthday of Ravindranath;Restricted Holiday
+2013-05-12;Sunday;Mother's Day;Observance
+2013-05-24;Friday;Hazarat Ali's Birthday;Restricted Holiday
+2013-05-25;Saturday;Buddha Purnima/Vesak;Gazetted Holiday
+2013-06-16;Sunday;Father's Day;Observance
+2013-06-21;Friday;June Solstice;Season
+2013-07-10;Wednesday;Rath Yatra;Restricted Holiday
+2013-08-02;Friday;Jamat Ul-Vida;Restricted Holiday
+2013-08-04;Sunday;Friendship Day;Observance
+2013-08-09;Friday;Ramzan Id/Eid-ul-Fitar;Muslim, Common local holiday
+2013-08-15;Thursday;Independence Day;Gazetted Holiday
+2013-08-18;Sunday;Parsi New Year;Restricted Holiday
+2013-08-20;Tuesday;Raksha Bandhan (Rakhi);Restricted Holiday
+2013-08-28;Wednesday;Janmashtami;Gazetted Holiday
+2013-09-09;Monday;Ganesh Chaturthi/Vinayaka Chaturthi;Restricted Holiday
+2013-09-16;Monday;Onam;Restricted Holiday
+2013-09-23;Monday;September Equinox;Season
+2013-10-02;Wednesday;Mahatma Gandhi Jayanti;Gazetted Holiday
+2013-10-11;Friday;Maha Saptami;Restricted Holiday
+2013-10-12;Saturday;Maha Ashtami;Restricted Holiday
+2013-10-13;Sunday;Dussehra;Gazetted Holiday
+2013-10-16;Wednesday;Bakr Id/Eid ul-Adha;Gazetted Holiday
+2013-10-18;Friday;Maharishi Valmiki Jayanti;Restricted Holiday
+2013-10-22;Tuesday;Karaka Chaturthi (Karva Chauth);Restricted Holiday
+2013-10-31;Thursday;Halloween;Observance
+2013-11-02;Saturday;Naraka Chaturdasi;Restricted Holiday
+2013-11-03;Sunday;Diwali/Deepavali;Gazetted Holiday
+2013-11-04;Monday;Govardhan Puja;Restricted Holiday
+2013-11-05;Tuesday;Bhai Duj;Restricted Holiday
+2013-11-08;Friday;Chhat Puja (Pratihar Sashthi/Surya Sashthi);Restricted Holiday
+2013-11-14;Thursday;Muharram/Ashura;Gazetted Holiday
+2013-11-17;Sunday;Guru Nanak Jayanti;Gazetted Holiday
+2013-11-24;Sunday;Guru Tegh Bahadur's Martyrdom Day;Restricted Holiday
+2013-11-28;Thursday;First Day of Hanukkah;Observance
+2013-12-05;Thursday;Last day of Hanukkah;Observance
+2013-12-21;Saturday;December Solstice;Season
+2013-12-24;Tuesday;Christmas Eve;Restricted Holiday
+2013-12-25;Wednesday;Christmas;Gazetted Holiday
+2013-12-31;Tuesday;New Year's Eve;Observance
+2014-01-01;Wednesday;New Year's Day;Restricted Holiday
+2014-01-07;Tuesday;Guru Govind Singh Jayanti;Restricted Holiday
+2014-01-14;Tuesday;Pongal;Restricted Holiday
+2014-01-14;Tuesday;Makar Sankranti;Restricted Holiday
+2014-01-14;Tuesday;Milad un-Nabi/Id-e-Milad;Gazetted Holiday
+2014-01-26;Sunday;Republic Day;Gazetted Holiday
+2014-01-31;Friday;Chinese New Year;Observance
+2014-02-04;Tuesday;Vasant Panchami;Restricted Holiday
+2014-02-14;Friday;Guru Ravidas Jayanti;Restricted Holiday
+2014-02-14;Friday;Valentine's Day;Observance
+2014-02-19;Wednesday;Shivaji Jayanti;Restricted Holiday
+2014-02-24;Monday;Maharishi Dayanand Saraswati Jayanti;Restricted Holiday
+2014-02-27;Thursday;Maha Shivaratri/Shivaratri;Gazetted Holiday
+2014-03-16;Sunday;Holi;Gazetted Holiday
+2014-03-16;Sunday;Holika Dahana;Restricted Holiday
+2014-03-17;Monday;Holi;Restricted Holiday
+2014-03-20;Thursday;March Equinox;Season
+2014-03-31;Monday;Chaitra Sukhladi;Restricted Holiday
+2014-04-08;Tuesday;Rama Navami;Gazetted Holiday
+2014-04-13;Sunday;Mahavir Jayanti;Gazetted Holiday
+2014-04-14;Monday;Vaisakhi;Restricted Holiday
+2014-04-14;Monday;Ambedkar Jayanti;Observance
+2014-04-15;Tuesday;First day of Passover;Observance
+2014-04-15;Tuesday;Mesadi/Vaisakhadi;Restricted Holiday
+2014-04-17;Thursday;Maundy Thursday;Observance, Christian
+2014-04-18;Friday;Good Friday;Gazetted Holiday
+2014-04-20;Sunday;Easter Day;Restricted Holiday
+2014-05-01;Thursday;May Day;Observance
+2014-05-09;Friday;Birthday of Ravindranath;Restricted Holiday
+2014-05-11;Sunday;Mother's Day;Observance
+2014-05-13;Tuesday;Hazarat Ali's Birthday;Restricted Holiday
+2014-05-14;Wednesday;Buddha Purnima/Vesak;Gazetted Holiday
+2014-06-15;Sunday;Father's Day;Observance
+2014-06-21;Saturday;June Solstice;Season
+2014-06-29;Sunday;Rath Yatra;Restricted Holiday
+2014-07-25;Friday;Jamat Ul-Vida;Restricted Holiday
+2014-07-29;Tuesday;Ramzan Id/Eid-ul-Fitar;Muslim, Common local holiday
+2014-08-03;Sunday;Friendship Day;Observance
+2014-08-10;Sunday;Raksha Bandhan (Rakhi);Restricted Holiday
+2014-08-15;Friday;Independence Day;Gazetted Holiday
+2014-08-17;Sunday;Janmashtami;Gazetted Holiday
+2014-08-18;Monday;Parsi New Year;Restricted Holiday
+2014-08-29;Friday;Ganesh Chaturthi/Vinayaka Chaturthi;Restricted Holiday
+2014-09-07;Sunday;Onam;Restricted Holiday
+2014-09-23;Tuesday;September Equinox;Season
+2014-10-01;Wednesday;Maha Saptami;Restricted Holiday
+2014-10-02;Thursday;Mahatma Gandhi Jayanti;Gazetted Holiday
+2014-10-02;Thursday;Maha Ashtami;Restricted Holiday
+2014-10-03;Friday;Dussehra;Gazetted Holiday
+2014-10-06;Monday;Bakr Id/Eid ul-Adha;Gazetted Holiday
+2014-10-11;Saturday;Karaka Chaturthi (Karva Chauth);Restricted Holiday
+2014-10-22;Wednesday;Naraka Chaturdasi;Restricted Holiday
+2014-10-23;Thursday;Diwali/Deepavali;Gazetted Holiday
+2014-10-24;Friday;Govardhan Puja;Restricted Holiday
+2014-10-25;Saturday;Bhai Duj;Restricted Holiday
+2014-10-29;Wednesday;Chhat Puja (Pratihar Sashthi/Surya Sashthi);Restricted Holiday
+2014-10-31;Friday;Halloween;Observance
+2014-11-04;Tuesday;Muharram/Ashura;Gazetted Holiday
+2014-11-06;Thursday;Guru Nanak Jayanti;Gazetted Holiday
+2014-11-24;Monday;Guru Tegh Bahadur's Martyrdom Day;Restricted Holiday
+2014-12-17;Wednesday;First Day of Hanukkah;Observance
+2014-12-22;Monday;December Solstice;Season
+2014-12-24;Wednesday;Last day of Hanukkah;Observance
+2014-12-24;Wednesday;Christmas Eve;Restricted Holiday
+2014-12-25;Thursday;Christmas;Gazetted Holiday
+2014-12-31;Wednesday;New Year's Eve;Observance
+2015-01-01;Thursday;New Year's Day;Restricted Holiday
+2015-01-04;Sunday;Milad un-Nabi/Id-e-Milad;Gazetted Holiday
+2015-01-05;Monday;Guru Govind Singh Jayanti;Restricted Holiday
+2015-01-14;Wednesday;Makar Sankranti;Restricted Holiday
+2015-01-15;Thursday;Pongal;Restricted Holiday
+2015-01-22;Thursday;Beti Bachao, Beti Padhao Campaign Launch Day;Observance
+2015-01-24;Saturday;Vasant Panchami;Restricted Holiday
+2015-01-26;Monday;Republic Day;Gazetted Holiday
+2015-02-03;Tuesday;Guru Ravidas Jayanti;Restricted Holiday
+2015-02-14;Saturday;Maharishi Dayanand Saraswati Jayanti;Restricted Holiday
+2015-02-14;Saturday;Valentine's Day;Observance
+2015-02-17;Tuesday;Maha Shivaratri/Shivaratri;Gazetted Holiday
+2015-02-19;Thursday;Shivaji Jayanti;Restricted Holiday
+2015-02-19;Thursday;Chinese New Year;Observance
+2015-03-05;Thursday;Holika Dahana;Restricted Holiday
+2015-03-06;Friday;Holi;Restricted Holiday
+2015-03-21;Saturday;March Equinox;Season
+2015-03-21;Saturday;Chaitra Sukhladi;Restricted Holiday
+2015-03-28;Saturday;Rama Navami;Gazetted Holiday
+2015-04-02;Thursday;Maundy Thursday;Observance, Christian
+2015-04-02;Thursday;Mahavir Jayanti;Gazetted Holiday
+2015-04-03;Friday;Good Friday;Gazetted Holiday
+2015-04-04;Saturday;First day of Passover;Observance
+2015-04-05;Sunday;Easter Day;Restricted Holiday
+2015-04-14;Tuesday;Vaisakhi;Restricted Holiday
+2015-04-14;Tuesday;Ambedkar Jayanti;Observance
+2015-04-15;Wednesday;Mesadi/Vaisakhadi;Restricted Holiday
+2015-05-01;Friday;May Day;Observance
+2015-05-03;Sunday;Hazarat Ali's Birthday;Restricted Holiday
+2015-05-04;Monday;Buddha Purnima/Vesak;Gazetted Holiday
+2015-05-09;Saturday;Birthday of Ravindranath;Restricted Holiday
+2015-05-10;Sunday;Mother's Day;Observance
+2015-06-21;Sunday;Father's Day;Observance
+2015-06-21;Sunday;June Solstice;Season
+2015-07-17;Friday;Jamat Ul-Vida;Restricted Holiday
+2015-07-18;Saturday;Rath Yatra;Restricted Holiday
+2015-07-19;Sunday;Ramzan Id/Eid-ul-Fitar;Muslim, Common local holiday
+2015-08-02;Sunday;Friendship Day;Observance
+2015-08-15;Saturday;Independence Day;Gazetted Holiday
+2015-08-18;Tuesday;Parsi New Year;Restricted Holiday
+2015-08-28;Friday;Onam;Restricted Holiday
+2015-08-29;Saturday;Raksha Bandhan (Rakhi);Restricted Holiday
+2015-09-05;Saturday;Janmashtami;Gazetted Holiday
+2015-09-17;Thursday;Ganesh Chaturthi/Vinayaka Chaturthi;Restricted Holiday
+2015-09-23;Wednesday;September Equinox;Season
+2015-09-25;Friday;Bakr Id/Eid ul-Adha;Gazetted Holiday
+2015-10-02;Friday;Mahatma Gandhi Jayanti;Gazetted Holiday
+2015-10-20;Tuesday;Maha Saptami;Restricted Holiday
+2015-10-21;Wednesday;Maha Ashtami;Restricted Holiday
+2015-10-22;Thursday;Dussehra;Gazetted Holiday
+2015-10-24;Saturday;Muharram/Ashura;Gazetted Holiday
+2015-10-27;Tuesday;Maharishi Valmiki Jayanti;Restricted Holiday
+2015-10-30;Friday;Karaka Chaturthi (Karva Chauth);Restricted Holiday
+2015-10-31;Saturday;Halloween;Observance
+2015-11-10;Tuesday;Naraka Chaturdasi;Restricted Holiday
+2015-11-11;Wednesday;Diwali/Deepavali;Gazetted Holiday
+2015-11-12;Thursday;Govardhan Puja;Restricted Holiday
+2015-11-13;Friday;Bhai Duj;Restricted Holiday
+2015-11-17;Tuesday;Chhat Puja (Pratihar Sashthi/Surya Sashthi);Restricted Holiday
+2015-11-24;Tuesday;Guru Tegh Bahadur's Martyrdom Day;Restricted Holiday
+2015-11-25;Wednesday;Guru Nanak Jayanti;Gazetted Holiday
+2015-12-07;Monday;First Day of Hanukkah;Observance
+2015-12-14;Monday;Last day of Hanukkah;Observance
+2015-12-22;Tuesday;December Solstice;Season
+2015-12-24;Thursday;Christmas Eve;Restricted Holiday
+2015-12-25;Friday;Christmas;Gazetted Holiday
+2015-12-31;Thursday;New Year's Eve;Observance
+2016-01-01;Friday;New Year's Day;Restricted Holiday
+2016-01-14;Thursday;Makar Sankranti;Restricted Holiday
+2016-01-15;Friday;Pongal;Restricted Holiday
+2016-01-16;Saturday;Guru Govind Singh Jayanti;Restricted Holiday
+2016-01-26;Tuesday;Republic Day;Gazetted Holiday
+2016-02-08;Monday;Chinese New Year;Observance
+2016-02-12;Friday;Vasant Panchami;Restricted Holiday
+2016-02-14;Sunday;Valentine's Day;Observance
+2016-02-19;Friday;Shivaji Jayanti;Restricted Holiday
+2016-02-22;Monday;Guru Ravidas Jayanti;Restricted Holiday
+2016-03-04;Friday;Maharishi Dayanand Saraswati Jayanti;Restricted Holiday
+2016-03-07;Monday;Maha Shivaratri/Shivaratri;Gazetted Holiday
+2016-03-20;Sunday;March Equinox;Season
+2016-03-23;Wednesday;Holika Dahana;Restricted Holiday
+2016-03-24;Thursday;Maundy Thursday;Observance, Christian
+2016-03-24;Thursday;Holi;Restricted Holiday
+2016-03-25;Friday;Good Friday;Gazetted Holiday
+2016-03-27;Sunday;Easter Day;Restricted Holiday
+2016-04-08;Friday;Chaitra Sukhladi;Restricted Holiday
+2016-04-13;Wednesday;Vaisakhi;Restricted Holiday
+2016-04-14;Thursday;Mesadi/Vaisakhadi;Restricted Holiday
+2016-04-14;Thursday;Ambedkar Jayanti;Observance
+2016-04-15;Friday;Rama Navami;Gazetted Holiday
+2016-04-20;Wednesday;Mahavir Jayanti;Gazetted Holiday
+2016-04-21;Thursday;Hazarat Ali's Birthday;Restricted Holiday
+2016-04-23;Saturday;First day of Passover;Observance
+2016-05-01;Sunday;May Day;Observance
+2016-05-08;Sunday;Mother's Day;Observance
+2016-05-08;Sunday;Birthday of Ravindranath;Restricted Holiday
+2016-05-21;Saturday;Buddha Purnima/Vesak;Gazetted Holiday
+2016-06-19;Sunday;Father's Day;Observance
+2016-06-21;Tuesday;June Solstice;Season
+2016-07-01;Friday;Jamat Ul-Vida;Restricted Holiday
+2016-07-06;Wednesday;Ramzan Id/Eid-ul-Fitar;Muslim, Common local holiday
+2016-07-06;Wednesday;Rath Yatra;Restricted Holiday
+2016-08-07;Sunday;Friendship Day;Observance
+2016-08-15;Monday;Independence Day;Gazetted Holiday
+2016-08-17;Wednesday;Parsi New Year;Restricted Holiday
+2016-08-18;Thursday;Raksha Bandhan (Rakhi);Restricted Holiday
+2016-08-25;Thursday;Janmashtami;Gazetted Holiday
+2016-09-05;Monday;Ganesh Chaturthi/Vinayaka Chaturthi;Restricted Holiday
+2016-09-13;Tuesday;Bakr Id/Eid ul-Adha;Gazetted Holiday
+2016-09-14;Wednesday;Onam;Restricted Holiday
+2016-09-22;Thursday;September Equinox;Season
+2016-10-02;Sunday;Mahatma Gandhi Jayanti;Gazetted Holiday
+2016-10-09;Sunday;Maha Ashtami;Restricted Holiday
+2016-10-11;Tuesday;Dussehra;Gazetted Holiday
+2016-10-12;Wednesday;Muharram/Ashura;Gazetted Holiday
+2016-10-14;Friday;National Day of Mourning King Bhumibol Adulyadej;National holiday
+2016-10-16;Sunday;Maharishi Valmiki Jayanti;Restricted Holiday
+2016-10-19;Wednesday;Karaka Chaturthi (Karva Chauth);Restricted Holiday
+2016-10-29;Saturday;Naraka Chaturdasi;Restricted Holiday
+2016-10-30;Sunday;Diwali/Deepavali;Gazetted Holiday
+2016-10-31;Monday;Halloween;Observance
+2016-10-31;Monday;Govardhan Puja;Restricted Holiday
+2016-11-01;Tuesday;Bhai Duj;Restricted Holiday
+2016-11-06;Sunday;Chhat Puja (Pratihar Sashthi/Surya Sashthi);Restricted Holiday
+2016-11-14;Monday;Guru Nanak Jayanti;Gazetted Holiday
+2016-11-24;Thursday;Guru Tegh Bahadur's Martyrdom Day;Restricted Holiday
+2016-12-13;Tuesday;Milad un-Nabi/Id-e-Milad;Gazetted Holiday
+2016-12-21;Wednesday;December Solstice;Season
+2016-12-24;Saturday;Christmas Eve;Restricted Holiday
+2016-12-25;Sunday;First Day of Hanukkah;Observance
+2016-12-25;Sunday;Christmas;Gazetted Holiday
+2016-12-31;Saturday;New Year's Eve;Observance
+2016-01-01;Sunday;Last day of Hanukkah;Observance
+2017-01-01;Sunday;New Year's Day;Restricted Holiday
+2017-01-05;Thursday;Guru Govind Singh Jayanti;Restricted Holiday
+2017-01-14;Saturday;Pongal;Restricted Holiday
+2017-01-14;Saturday;Makar Sankranti;Restricted Holiday
+2017-01-26;Thursday;Republic Day;Gazetted Holiday
+2017-01-28;Saturday;Chinese New Year;Observance
+2017-02-01;Wednesday;Vasant Panchami;Restricted Holiday
+2017-02-10;Friday;Guru Ravidas Jayanti;Restricted Holiday
+2017-02-14;Tuesday;Valentine's Day;Observance
+2017-02-19;Sunday;Shivaji Jayanti;Restricted Holiday
+2017-02-21;Tuesday;Maharishi Dayanand Saraswati Jayanti;Restricted Holiday
+2017-02-24;Friday;Maha Shivaratri/Shivaratri;Gazetted Holiday
+2017-03-12;Sunday;Holika Dahana;Restricted Holiday
+2017-03-13;Monday;Holi;Restricted Holiday
+2017-03-20;Monday;March Equinox;Season
+2017-03-28;Tuesday;Chaitra Sukhladi;Restricted Holiday
+2017-04-04;Tuesday;Rama Navami;Gazetted Holiday
+2017-04-09;Sunday;Mahavir Jayanti;Gazetted Holiday
+2017-04-11;Tuesday;First day of Passover;Observance
+2017-04-11;Tuesday;Hazarat Ali's Birthday;Restricted Holiday
+2017-04-13;Thursday;Maundy Thursday;Observance, Christian
+2017-04-14;Friday;Good Friday;Gazetted Holiday
+2017-04-14;Friday;Vaisakhi;Restricted Holiday
+2017-04-14;Friday;Ambedkar Jayanti;Observance
+2017-04-15;Saturday;Mesadi/Vaisakhadi;Restricted Holiday
+2017-04-16;Sunday;Easter Day;Restricted Holiday
+2017-05-01;Monday;May Day;Observance
+2017-05-09;Tuesday;Birthday of Ravindranath;Restricted Holiday
+2017-05-10;Wednesday;Buddha Purnima/Vesak;Gazetted Holiday
+2017-05-14;Sunday;Mother's Day;Observance
+2017-06-18;Sunday;Father's Day;Observance
+2017-06-21;Wednesday;June Solstice;Season
+2017-06-23;Friday;Jamat Ul-Vida;Restricted Holiday
+2017-06-25;Sunday;Rath Yatra;Restricted Holiday
+2017-06-26;Monday;Ramzan Id/Eid-ul-Fitar;Muslim, Common local holiday
+2017-08-06;Sunday;Friendship Day;Observance
+2017-08-07;Monday;Raksha Bandhan (Rakhi);Restricted Holiday
+2017-08-15;Tuesday;Independence Day;Gazetted Holiday
+2017-08-15;Tuesday;Janmashtami;Gazetted Holiday
+2017-08-17;Thursday;Parsi New Year;Restricted Holiday
+2017-08-25;Friday;Ganesh Chaturthi/Vinayaka Chaturthi;Restricted Holiday
+2017-09-02;Saturday;Bakr Id/Eid ul-Adha;Gazetted Holiday
+2017-09-04;Monday;Onam;Restricted Holiday
+2017-09-23;Saturday;September Equinox;Season
+2017-09-27;Wednesday;Maha Saptami;Restricted Holiday
+2017-09-28;Thursday;Maha Ashtami;Restricted Holiday
+2017-09-29;Friday;Maha Navami;Restricted Holiday
+2017-09-30;Saturday;Dussehra;Gazetted Holiday
+2017-10-01;Sunday;Muharram/Ashura;Gazetted Holiday
+2017-10-02;Monday;Mahatma Gandhi Jayanti;Gazetted Holiday
+2017-10-05;Thursday;Maharishi Valmiki Jayanti;Restricted Holiday
+2017-10-08;Sunday;Karaka Chaturthi (Karva Chauth);Restricted Holiday
+2017-10-18;Wednesday;Naraka Chaturdasi;Restricted Holiday
+2017-10-19;Thursday;Diwali/Deepavali;Gazetted Holiday
+2017-10-20;Friday;Govardhan Puja;Restricted Holiday
+2017-10-21;Saturday;Bhai Duj;Restricted Holiday
+2017-10-26;Thursday;Chhat Puja (Pratihar Sashthi/Surya Sashthi);Restricted Holiday
+2017-10-31;Tuesday;Halloween;Observance
+2017-11-04;Saturday;Guru Nanak Jayanti;Gazetted Holiday
+2017-11-24;Friday;Guru Tegh Bahadur's Martyrdom Day;Restricted Holiday
+2017-12-02;Saturday;Milad un-Nabi/Id-e-Milad;Gazetted Holiday
+2017-12-13;Wednesday;First Day of Hanukkah;Observance
+2017-12-20;Wednesday;Last day of Hanukkah;Observance
+2017-12-21;Thursday;December Solstice;Season
+2017-12-24;Sunday;Christmas Eve;Restricted Holiday
+2017-12-25;Monday;Christmas;Gazetted Holiday
+2017-12-25;Monday;Guru Govind Singh Jayanti;Observance
+2017-12-31;Sunday;New Year's Eve;Observance

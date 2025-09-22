@@ -1,0 +1,57 @@
+
+> cat("WEEKEND vs WEEKDAY\n---------------------\n")
+WEEKEND vs WEEKDAY
+---------------------
+
+> if (!is.null(wt_t)) print(wt_t)
+
+	Welch Two Sample t-test
+
+data:  sales by is_weekend
+t = -46.829, df = 34908, p-value < 2.2e-16
+alternative hypothesis: true difference in means between group FALSE and group TRUE is not equal to 0
+95 percent confidence interval:
+ -77.73811 -71.49211
+sample estimates:
+mean in group FALSE  mean in group TRUE 
+           192.2303            266.8454 
+
+
+> if (!is.null(wt_w)) print(wt_w)
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  sales by is_weekend
+W = 548770465, p-value < 2.2e-16
+alternative hypothesis: true location shift is not equal to 0
+
+
+> cat("\nHOLIDAY vs NON-HOLIDAY\n-----------------------\n")
+
+HOLIDAY vs NON-HOLIDAY
+-----------------------
+
+> if (!is.null(hd_t)) print(hd_t)
+
+	Welch Two Sample t-test
+
+data:  sales by is_holiday
+t = 1.6961, df = 18797, p-value = 0.08989
+alternative hypothesis: true difference in means between group FALSE and group TRUE is not equal to 0
+95 percent confidence interval:
+ -0.462126  6.399392
+sample estimates:
+mean in group FALSE  mean in group TRUE 
+           214.0378            211.0692 
+
+
+> if (!is.null(hd_w)) print(hd_w)
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  sales by is_holiday
+W = 471701298, p-value = 0.05719
+alternative hypothesis: true location shift is not equal to 0
+
+
+> sink()

@@ -1,0 +1,6 @@
+metric,value
+pearson,-0.667100801337708
+spearman,-0.632064681522098
+diff_pearson,0.0296642846489376
+max_ccf,
+lag_at_max,
