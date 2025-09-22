@@ -7,7 +7,7 @@ The course provided hands-on practice to strengthen data analysis and visualizat
 ---
 
 ## Description
-This project was created during the **second hands-on case study** of the Data Analyst course.  
+This project was created during the **hands-on case study** of the Data Analyst course.  
 
 It was my **first encounter with R Shiny**, and I tried to build a **web application with charts** that visualize the answers to the given questions.  
 
