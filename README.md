@@ -1,4 +1,4 @@
-# R Shiny Dashboard – Case Study 2
+# R Shiny Dashboard – Case Study
 
 ## About the Course
 This project was developed as part of the **Data Analyst course**, organized in collaboration with **Cevora, TMC, and VDAB**.  
